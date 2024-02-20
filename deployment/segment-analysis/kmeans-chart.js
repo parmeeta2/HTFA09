@@ -5,3 +5,8 @@ Plotly.d3.json('deployment/segment-analysis/kmeans-data.json', function(err, fig
   });
 
 console.log( Plotly.BUILD );
+
+
+
+
+
